@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: wumw
+Build-Jdk: 1.8.0_131
+Implementation-Vendor: andaily.com
+Implementation-Title: spring-dynamic-job
+Implementation-Version: 1.0
+Implementation-BuildNumber: 1.0
+Created-By: Maven Integration for Eclipse
+Specification-Vendor: andaily.com
+
